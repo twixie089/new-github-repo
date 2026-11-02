@@ -5,7 +5,7 @@ pipeline {
         APP_NAME='testapp'
         URL_DOCKERHUB='url'
         USER_NAME='twixie089'
-        GIT_URL=''
+        GIT_URL='https://github.com/twixie089/new-github-repo.git'
     }
 
     stages {
